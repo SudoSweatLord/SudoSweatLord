@@ -12,3 +12,4 @@
 - **My pets** :cat2::dog2::cat2:
 - **Psychology**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=K-Fahrenberger)](https://git.io/streak-stats)
