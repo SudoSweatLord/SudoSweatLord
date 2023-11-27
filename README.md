@@ -2,4 +2,9 @@
 ### Not robocop anymore
 Past Pro Bodybuilder and Mixed Martial Artist turning into Fullstack developer
 ![](./Robocop.png)
-> block quote
+
+#### Interests
+- Automatition
+- AI
+- My pets :cat2::dog2::cat2:
+- Psychology
