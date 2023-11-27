@@ -1,9 +1,10 @@
 # Hi there, I'm Kevin  
 ### Not robocop anymore
-**Past Pro Bodybuilder and Mixed Martial Artist turning into Fullstack developer**
+**Past Pro Bodybuilder and Mixed Martial Artist** 
 <br>
 ![](./Robocop.png)
 <br>
+**turning into Fullstack developer**
 
 ### Interests
 - **Automatition**
