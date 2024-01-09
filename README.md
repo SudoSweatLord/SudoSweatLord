@@ -1,2 +1,2 @@
-# Hi there, I'm Kevin  
+Hi there, I'm Kevin  
 
