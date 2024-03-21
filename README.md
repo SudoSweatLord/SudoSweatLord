@@ -1,6 +1,6 @@
 # Hi, I'm Klaus Kevin Fahrenberger 👋
 
-I'm on a journey of constant improvement and exploration in the realm of web development. 
+I'm on a journey of constant improvement and exploration in the realm of programming. 
 I thrive on problem-solving and love the challenge of learning new things. 
 Currently, I'm deeply engaged in hands-on projects, each one a stepping stone towards mastery.
 
