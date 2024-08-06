@@ -9,4 +9,4 @@ Currently, I'm deeply engaged in hands-on projects, each one a stepping stone to
 <br>
 <h2>>Skillset</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,github,html,js,linux,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,github,html,js,linux,mongodb,react,ts)](https://skillicons.dev)
