@@ -4,6 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,html,js,linux,mongodb,react,ts)](https://skillicons.dev)<br><br><br>
 
-<h3>My keyboard is basically watercooled at this point</h3>
-
-![giphy](https://github.com/user-attachments/assets/8af1c8ae-ef2f-40d7-bde0-eca7a3bacae7)
+![giphy](https://github.com/user-attachments/assets/27d343dc-ea25-4f00-ac24-1e205ef209ba)
