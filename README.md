@@ -1,4 +1,4 @@
-# Hi, I'm K. Kevin Fahrenberger 👋
+# Hi, I'm K. Kevin 👋
 
 <h2>>Technologies I'm experienced in:</h2><br>
 
