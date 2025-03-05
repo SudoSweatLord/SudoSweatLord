@@ -4,7 +4,7 @@
 
 I enjoy working with JavaScript, Linux, GitHub, and React, and I'm excited to expand my skills into backend development. Currently, I'm diving into Python to enhance my abilities in web scraping and machine learning.
 
-I believe that with the right resources, no problem is insurmountable. I'm actively working on building my own products and am eager to collaborate on innovative projects.
+I believe that with the right resources, no problem is insurmountable. I'm actively working on building my own products and I am eager to collaborate on innovative projects.
 
 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/k-kevin-fahrenberger-2a57862a4).
 <br>
