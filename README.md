@@ -6,7 +6,7 @@ I enjoy working with JavaScript, Linux, GitHub, and React, and I'm excited to ex
 
 I believe that with the right resources, no problem is insurmountable. I'm actively working on building my own SaaS and am eager to collaborate on innovative projects.
 
-Let’s connect! </p><br>
+Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/k-kevin-fahrenberger-2a57862a4).
 <h2>Tech-Stack</h2> <br>
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,html,js,linux,mongodb,react,ts)](https://skillicons.dev)<br><br><br>
