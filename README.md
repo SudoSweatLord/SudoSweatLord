@@ -10,6 +10,6 @@ Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/k-kevin
 <br>
 <h2>Tech-Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=css,sass,html,js,linux,mongodb,py,react,ts)](https://skillicons.dev)<br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=bash,css,sass,html,js,linux,mongodb,py,react,ts)](https://skillicons.dev)<br><br><br>
 
 ![giphy](https://github.com/user-attachments/assets/27d343dc-ea25-4f00-ac24-1e205ef209ba)
